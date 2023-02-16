@@ -2,8 +2,8 @@
 
 ### HTML and CSS
 
-### HTML-Essentials-HomeTask
+### CSS-Essentials-HomeTask
 
-This is the code of the first practice of the HTML and CSS course.
+This is the code of the CSS-Essentials-HomeTask
 
 ### Created by: Sergio Zapata
